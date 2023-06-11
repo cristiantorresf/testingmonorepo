@@ -1,6 +1,6 @@
 {
   "name": "@cristiantorresf/random-number",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Cristian Torres <cristian.torres@ciandt.com>",
   "homepage": "https://github.com/ravgeetdhillon/lerna-monorepo#readme",
@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/ravgeetdhillon/lerna-monorepo/issues"
   },
-   "publishConfig": {
+  "publishConfig": {
     "access": "public"
   }
 }
