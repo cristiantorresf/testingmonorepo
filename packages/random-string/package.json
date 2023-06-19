@@ -1,11 +1,12 @@
 {
   "name": "@cristiantorresf/random-string",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Cristian Torres <cristian.torres@ciandt.com>",
   "homepage": "https://github.com/ravgeetdhillon/lerna-monorepo#readme",
   "license": "ISC",
   "main": "lib/random-string.js",
+  "private": "true",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -25,5 +26,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "2f1356bded0ba4f69a2c5190f3ae5bd8fd8f6f10"
 }
