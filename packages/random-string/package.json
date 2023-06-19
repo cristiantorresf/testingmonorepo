@@ -1,6 +1,6 @@
 {
   "name": "@cristiantorresf/random-string",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Cristian Torres <cristian.torres@ciandt.com>",
   "homepage": "https://github.com/ravgeetdhillon/lerna-monorepo#readme",
@@ -25,6 +25,5 @@
   },
   "publishConfig": {
     "access": "public"
-  },
-  "gitHead": "fa8246190e16b631b8b5d5b0f1dfdc0c21c9cf16"
+  }
 }
